@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
         }
         else if(resultadoConvertido == 12){
             txtResultado.text = resultadoConvertido.toString()
-            Toast.makeText(this, "Parabéns, você ganhou", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Parabéns, você ganhou", Toast.LENGTH_SHfdfsdORT).show()
         }else {
             txtResultado.text = 0.toString()
             txtResultadoVitoria.text = resultadoConvertidoVitoria.toString()
