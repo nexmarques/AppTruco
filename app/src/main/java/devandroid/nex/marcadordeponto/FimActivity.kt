@@ -18,8 +18,20 @@ class FimActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(binding.root)
 
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+
+        with(binding){
+            btnFechar.setOnClickListener {
+                finish()
+            }
+        }
 
 
+
+
+    }
+
+    private fun receberDados(){
 
     }
 }
