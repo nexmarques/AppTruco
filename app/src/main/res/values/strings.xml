@@ -2,4 +2,10 @@
     <string name="app_name">MarcadorDePonto</string>
     <string name="nos">Nós</string>
     <string name="eles">Eles</string>
+    <string name="truco6">Truco(6)</string>
+    <string name="truco9">Truco(9)</string>
+    <string name="truco12">Truco(12)</string>
+    <string name="truco1">Truco(1)</string>
+    <string name="truco">Truco</string>
+    <string name="soma">+</string>
 </resources>
